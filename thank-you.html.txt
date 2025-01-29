@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thank You - Al Misba Quran Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <h1>Al Misba Quran Academy</h1>
+        </div>
+    </nav>
+    
+    <div class="thank-you-message">
+        <h1>بارك الله فيك! (May Allah bless you!)</h1>
+        <p>We've received your message and will respond within 24 hours إن شاء الله</p>
+        <a href="/">Return to Home</a>
+    </div>
+</body>
+</html>
